@@ -1,6 +1,7 @@
 # ImageEnlargeOnHover
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.2.
+This project is uploaded to help the beginners to achieve the functionality of Enlarging Image on Hover, which is popularly used in shopping sites.
 
 ## Development server
 
